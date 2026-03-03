@@ -76,7 +76,7 @@ if __name__ == '__main__':
         my_json = JsonManager(Q_title[task_id] + '.json')
         my_json.clear_all_data()
 
-        coco = COCO("I:\\hfj\\Annotations_Driving\\val.json")
+        coco = COCO("Annotations_Driving\\val.json")
 
         count = 0
         for image_info in coco.loadImgs(coco.imgs.keys()):
@@ -145,7 +145,7 @@ if __name__ == '__main__':
                 pick_x2 = pick_bbox[0] + pick_bbox[2]
                 pick_y2 = pick_bbox[1] + pick_bbox[3]
 
-                image = cv.imread('I:\\hfj\\Images_Driving\\' + image_info['file_name'])
+                image = cv.imread('Images_Driving\\' + image_info['file_name'])
                 cv.rectangle(image, (pick_bbox[0], pick_bbox[1]), (pick_bbox[0] + pick_bbox[2], pick_bbox[1] + pick_bbox[3]), (0, 0, 255), 5)
                 cv.imwrite(Q_title[task_id] + '\\' + image_info['file_name'], image)
 
