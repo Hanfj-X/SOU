@@ -33,7 +33,8 @@ Generate driving scene VQA datasets from COCO annotations.
 1. Update image path in `CreateJson_Driving.py` to match your dataset folder
 2. Run: `python CreateJson_Driving.py`
 
-# <span style="background:#E3F2FD; color:#1976D2; padding:4px 8px; border-radius:4px;">Step 2: MLLMs evaluation (15 MLLMs)</span>
+> [!NOTE]
+> # Step 2: MLLMs evaluation (15 MLLMs)
 # Updating...
 ![GitHub](./3.png)
 
