@@ -4,24 +4,17 @@
 
 <div align="center">
 
-# [Can Multimodal Large Language Models Truly Understand Small Objects?]
+# MLLM-ISU
+### The First-Ever Comprehensive Benchmark for Multimodal Large Language Models based Intrusion Scene Understanding
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2401.xxxxx-b31b1b.svg)](https://arxiv.org/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffcc00)](https://huggingface.co/)
-
-[**[🏠 Homepage]**](你的链接) | [**[📖 Paper]**](你的链接) | [**[📊 Dataset]**](你的链接) | [**[📦 Code]**](你的链接)
+[**[📖 Paper]**](链接) | [**[📊 Dataset (Hugging Face)]**](你的HF链接) | [**[🤖 ModelScope List]**](可选：模型列表链接)
 
 </div>
 
----
-
-## 0. Introduction
-
-Vision-language models (VLMs) have shown significant potential in interpreting medical imagery. However, existing benchmarks often fail to assess whether these models truly understand clinical logic. 
-
-To bridge this gap, we introduce **[项目缩写, 如 SOU-Bench]**, a comprehensive benchmark designed for clinical visual reasoning.
-
+## 🌟 Highlights
+* **First-Ever Benchmark**: Specifically designed for **Intrusion Scene Understanding (ISU)** in complex environments.
+* **Comprehensive Evaluation**: Benchmarking 10+ state-of-the-art MLLMs (e.g., Qwen2.5-VL, InternVL2) using their official implementations.
+* **Real-world Scenarios**: Covering diverse intrusion cases with high-quality multimodal data.
 # SOU
 # Annotations_Driving
 
