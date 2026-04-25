@@ -11,7 +11,7 @@
 </div>
 
 ## 🌟 Highlights
-* **First-Ever Benchmark**: Specifically designed for **Intrusion Scene Understanding (ISU)** in complex environments.
+* **First-Ever Benchmark**: To the best of our knowledge, MLLMs based Small Object Understanding (SOU) tasks are proposed for the first time. A comprehensive benchmark (**SOUBench**), including relative datasets and baselines, is reported for the specific task. SOUBench fully reveals the shortcomings of current MLLMs in understanding small objects.
 * **Comprehensive Evaluation**: Benchmarking 10+ state-of-the-art MLLMs (e.g., Qwen2.5-VL, InternVL2) using their official implementations.
 * **Real-world Scenarios**: Covering diverse intrusion cases with high-quality multimodal data.
 # SOU
