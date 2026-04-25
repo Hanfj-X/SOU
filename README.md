@@ -18,7 +18,10 @@ understanding tasks, with 18,204 pairs and six relevant sub-tasks. Comprehensive
 evaluate the small object understanding capability of MLLMs. Sufficient results
 reveal that current MLLMs have a weak understanding ability in the proposed
 tasks, even the best MLLM is still behind Human performance by 23.53%.
-* **Real-world Scenarios**: Covering diverse intrusion cases with high-quality multimodal data.
+* **Effcitive Fine-tuning**: We further construct SOU-Train, a multimodal VQA training dataset
+with 11,226 fine-grained annotations, to supervise the fine-tuning of the latest MLLM. The result denotes that the SOU-Train can effectively improve the
+small understanding ability of MLLM in different scenarios. Our research provides a crucial empirical foundation for the enhancement of the small object
+understanding capabilities of MLLMs.
 # SOU
 # Annotations_Driving
 
