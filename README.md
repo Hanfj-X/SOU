@@ -6,7 +6,7 @@
 
 # Can Multimodal Large Language Models Truly Understand Small Objects?
 
-[**[📖 Paper]**](链接) | [**[📊 Dataset (Hugging Face)]**](你的HF链接) | [**[🤖 ModelScope List]**](可选：模型列表链接)
+[**[📖 Paper]**](链接) | [**[📊 Dataset (Hugging Face)]**](你的HF链接)
 
 </div>
 
