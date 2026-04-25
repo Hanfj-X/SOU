@@ -19,6 +19,8 @@
 
 ![GitHub](./1.png)
 
+![GitHub](./2.png)
+
 Generate driving scene VQA datasets from COCO annotations.
 
 **Files**:
@@ -35,5 +37,7 @@ Generate driving scene VQA datasets from COCO annotations.
 2. Run: `python CreateJson_Driving.py`
 
 # Step 2: MLLMs evaluation (15 MLLMs)
+
+![GitHub](./3.png)
 
 # Step 3: Training 
