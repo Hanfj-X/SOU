@@ -17,6 +17,8 @@
 
 # Step 1: VQA Construction (Take Driving Scenarios as an Example)
 
+![GitHub](./1.png)
+
 Generate driving scene VQA datasets from COCO annotations.
 
 **Files**:
