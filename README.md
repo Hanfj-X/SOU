@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# [项目名称]：[你的论文完整标题]
+# [Can Multimodal Large Language Models Truly Understand Small Objects?]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2401.xxxxx-b31b1b.svg)](https://arxiv.org/)
