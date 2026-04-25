@@ -1,6 +1,6 @@
 <div align="center">
 
-# Can Multimodal Large Language Models Truly \\ Understand Small Objects?
+# Can Multimodal Large Language Models Truly Understand Small Objects?
 
 </div>
 
