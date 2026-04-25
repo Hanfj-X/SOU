@@ -1,7 +1,3 @@
-# Updating (别急，正在抓紧更新)
---
-
-
 <div align="center">
 
 # Can Multimodal Large Language Models Truly Understand Small Objects?
